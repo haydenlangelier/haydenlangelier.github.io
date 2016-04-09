@@ -1,1 +1,11 @@
-body {background: blue;}
+
+body {background: lightsteel;}
+ img {width: 50%; height:50%;}
+	 h1 {color: blue;}
+	 h2 {color: red;}
+	 ul {color: purple;}
+	 body {background-image: 
+	 	url(https://cdn3.vox-cdn.com/thumbor/ZI03CZUViq_kKCmlwxogaPlVB_0=/0x0:1920x1080/1280x720/cdn0.vox-cdn.com/uploads/chorus_image/image/47651097/skywalker-luke.0.0.jpg ), 
+	 	url(http://screenrant.com/wp-content/uploads/darth-vader-10-most-dangerous-star-wars-villains.jpeg);
+	 	background-attachment: fixed, fixed ;background-repeat: no-repeat, no-repeat; max-width: 100% ; background-position: 0% 0%, 100% 100% ; background-size: 100% 50%, 100% 50% }   
+}
