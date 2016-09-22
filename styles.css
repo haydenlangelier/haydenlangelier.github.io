@@ -1,7 +1,14 @@
+a:visited {
+    color: white;
+}
 
-.gold { color: gold; }
-.silver {color: silver;}
-.bronze{color: tan;}
+a:hover {
+    color: blue;
+}
+p {color: white;}
+.gold { color: white; }
+.silver {color: white;}
+.bronze{color: white;}
 .parallax {background-image: url(http://www.mrwallpaper.com/wallpapers/san-francisco-night.jpg); height: 100%; background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -10,15 +17,16 @@
 #middle {height:1500px;background-image: url(http://www.angelikapiwowarczyk.com/wp-content/uploads/2013/02/2.jpg?617b7c);font-size:36px; text-align: center;background-position: center;
     background-repeat: no-repeat;
     background-size: cover;}
- img {width: 25%; height:25%; border:  5px solid; margin: 10px; border-color: white; }
+ img {width: 20%; height:20%; border:  5px solid;  border-color: white; }
 	 h1 {color: white; font-family: times; }
 	 h2 {color: white; font-size: 2em;}
-	 h4 { font-weight: bold; background: gray;  display: inline-block; vertical-align: top;}
+	 h4 { color:white; }
 	 body,html { height: 100%
 	 	
 	 
 	 	 }   
 }
+
 
 
 @media screen and (max-width: 768px) {
@@ -28,10 +36,4 @@
   
 }
 
-a:visited {
-    color: pink;
-}
 
-a:hover {
-    color: green;
-}
