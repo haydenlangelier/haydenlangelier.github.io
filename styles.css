@@ -7,8 +7,10 @@
     background-repeat: no-repeat;
     background-size: cover;}
 #thisone { color: white   ;  }
-#middle {height:1500px;background-image: url(http://www.mrwallpaper.com/wallpapers/san-francisco-night.jpg);font-size:36px}
- img {width: 25%; height:25%; border:  5px solid; margin: 10px;  }
+#middle {height:1500px;background-image: url(http://www.angelikapiwowarczyk.com/wp-content/uploads/2013/02/2.jpg?617b7c);font-size:36px; text-align: center;background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+ img {width: 25%; height:25%; border:  5px solid; margin: 10px; border-color: white; }
 	 h1 {color: white; font-family: times; }
 	 h2 {color: white; font-size: 2em;}
 	 h4 { font-weight: bold; background: gray;  display: inline-block; vertical-align: top;}
