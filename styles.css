@@ -2,16 +2,16 @@
 .gold { color: gold; }
 .silver {color: silver;}
 .bronze{color: tan;}
-.parallax {background-image: url(http://wallpapercave.com/wp/ItmVuT6.jpg); height: 100%; background-attachment: fixed;
+.parallax {background-image: url(http://www.mrwallpaper.com/wallpapers/san-francisco-night.jpg); height: 100%; background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;}
 #thisone { color: white   ;  }
-#middle {height:1500px;background-color:white;font-size:36px}
+#middle {height:1500px;background-image: url(http://www.mrwallpaper.com/wallpapers/san-francisco-night.jpg);font-size:36px}
  img {width: 25%; height:25%; border:  5px solid; margin: 10px;  }
 	 h1 {color: white; font-family: times; }
 	 h2 {color: white; font-size: 2em;}
-	 h4 { font-weight: bold; background: white; border: 5px solid; display: inline-block; vertical-align: top;}
+	 h4 { font-weight: bold; background: gray;  display: inline-block; vertical-align: top;}
 	 body,html { height: 100%
 	 	
 	 
