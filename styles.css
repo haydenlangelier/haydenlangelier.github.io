@@ -15,15 +15,15 @@ p {color: black;}
     background-repeat: no-repeat;
     background-size: cover;}
 #thisone { color: black   ;  }
-#middle {height:710px;text-align: center;   }
+#middle {height:750px;text-align: center; background-color: white;  }
 ul {list-style-position: inside;}
  img {width: 20%; height:20%;   border-color: black; }
 	 h1 {color: black; font-family: times; }
 	 h2 {color: black; font-size: 1.5em;}
 	 h4 { color:black; }
-	 body,html { height: 100%; 
+	 body,html { height: 100%; font-family: "Permanent Marker";
+        
 	 	
-	 
 	 	 }   
 }
 }
