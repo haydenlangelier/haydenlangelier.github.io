@@ -1,7 +1,6 @@
-.skills {display:inline-block;vertical-align: top; max-width: 40%; }
-.projects{display:inline-block; vertical-align: top; max-width: 40% }
+
 a:visited {
-    color: purple;
+    color: black;
 }
 
 a:hover {
@@ -16,11 +15,11 @@ p {color: black;}
     background-repeat: no-repeat;
     background-size: cover;}
 #thisone { color: black   ;  }
-#middle {height:1000px;text-align: center;  }
+#middle {height:710px;text-align: center;   }
 ul {list-style-position: inside;}
  img {width: 20%; height:20%;   border-color: black; }
 	 h1 {color: black; font-family: times; }
-	 h2 {color: black; font-size: 2em;}
+	 h2 {color: black; font-size: 1.5em;}
 	 h4 { color:black; }
 	 body,html { height: 100%; 
 	 	
