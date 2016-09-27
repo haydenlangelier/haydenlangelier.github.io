@@ -1,30 +1,34 @@
+.skills {display:inline-block;vertical-align: top; max-width: 40%; }
+.projects{display:inline-block; vertical-align: top; max-width: 40% }
 a:visited {
-    color: white;
+    color: purple;
 }
 
 a:hover {
     color: blue;
 }
-p {color: white;}
-.gold { color: white; }
-.silver {color: white;}
-.bronze{color: white;}
+p {color: black;}
+.gold { color: black; }
+.silver {color: black;}
+.bronze{color: black;}
 .parallax {background-image: url(http://www.mrwallpaper.com/wallpapers/san-francisco-night.jpg); height: 100%; background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;}
-#thisone { color: white   ;  }
-#middle {height:1500px;background-image: url(http://www.angelikapiwowarczyk.com/wp-content/uploads/2013/02/2.jpg?617b7c);font-size:36px; text-align: center;background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;}
- img {width: 20%; height:20%; border:  5px solid;  border-color: white; }
-	 h1 {color: white; font-family: times; }
-	 h2 {color: white; font-size: 2em;}
-	 h4 { color:white; }
-	 body,html { height: 100%
+#thisone { color: black   ;  }
+#middle {height:1000px;text-align: center;  }
+ul {list-style-position: inside;}
+ img {width: 20%; height:20%;   border-color: black; }
+	 h1 {color: black; font-family: times; }
+	 h2 {color: black; font-size: 2em;}
+	 h4 { color:black; }
+	 body,html { height: 100%; 
 	 	
 	 
 	 	 }   
+}
+}
+}
 }
 
 
